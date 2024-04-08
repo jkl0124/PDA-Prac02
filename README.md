@@ -1,4 +1,4 @@
-<img width="562" alt="스크린샷 2024-04-08 오후 4 50 38" src="https://github.com/jkl0124/PDA-Prac02/assets/122847760/cf8e69e7-6f42-4b8b-8b99-ad91dc004e29">Training02 과제 설명
+Training02 과제 설명
 구현 설명
 Java의 Scanner 클래스를 활용해 필요한 사용자의 입력을 받고, HashMap을 사용해 사용자의 정보를 담아 관리하는 시스템입니다.
 
@@ -17,3 +17,4 @@ Controller 클래스
 
 
 클래스 다이어그램
+<img width="1512" alt="스크린샷 2024-04-08 오후 4 21 18" src="https://github.com/jkl0124/PDA-Prac02/assets/122847760/3ef09dc2-4553-4deb-841b-2d4861a3f0e9">
